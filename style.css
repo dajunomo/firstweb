@@ -1,9 +1,12 @@
+body   {
+    background: #CCCCCC;
+}
 
 p{
     text-align: center;
-    
+   
 }
 
-h1{
-
+em strong{
+    color: red;
 }
