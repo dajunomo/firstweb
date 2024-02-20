@@ -1,6 +1,11 @@
-body   {
-   
+
+.titulo-1{
+    padding-left: 30px;
+
+
 }
+
+
 
 #banner{
     width: 100%;
@@ -12,8 +17,10 @@ body   {
 
 }
 
-h1 {
+.titulo-centro{
     text-align: center;
+    
+
 
 }
 
@@ -40,11 +47,7 @@ em strong{
 
 }
 
-h2{
-    text-align: center;
 
-
-}
 
 .items{
     font-style: italic;
